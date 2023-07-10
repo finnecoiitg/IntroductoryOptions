@@ -170,6 +170,9 @@
     background:  #000030;
     clear: both;
   }
+  .outfit{
+    font-size: 1.4rem;
+  }
   .divider {
     width: 1px;
     height: 65vh;
@@ -969,7 +972,7 @@ table {
       margin-bottom: 0.625vw;
   }
   
-  @media (max-width: 600px){
+  @media (max-width: 60rem){
   body{
       width: 100vw;
   }
