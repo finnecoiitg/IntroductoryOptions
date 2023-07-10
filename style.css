@@ -170,6 +170,9 @@
     background:  #000030;
     clear: both;
   }
+  .outfit{
+    font-size: 1.4rem;
+  }
   .divider {
     width: 1px;
     height: 65vh;
