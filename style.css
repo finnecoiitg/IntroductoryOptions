@@ -1037,7 +1037,7 @@ table {
           font-weight: normal;
           font-size: 12.07vw;
           margin: 0vw;
-          
+          color: #46ceff;
       }
       .abt-t-crs ul{
           line-height: 6.28vw;
@@ -1047,6 +1047,7 @@ table {
           font-size: 4.57vw;
           padding-left: 0;
           flex-wrap: wrap;
+	 color: #46ceff;
       }
       .abt-t-crs .dot{
           width: 3.328vw;
@@ -1054,6 +1055,7 @@ table {
           border-radius: 1.66vw;
           background-color: #7AFFA1;
           margin-bottom: 0.625vw;
+	 color: #46ceff;
       }
       html{
           scroll-behavior: smooth;
@@ -1064,6 +1066,7 @@ table {
     justify-content: center;
     align-items: center;
     margin: 5%;
+    color: #46ceff;
   }
 .coming-soon{
   color: #45454b;
