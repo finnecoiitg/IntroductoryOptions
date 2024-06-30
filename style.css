@@ -229,7 +229,7 @@
   .regbutton:hover {
     background: white;
     color: #000030;
-    border: 3px solid #39B54A;
+    border: 3px solid #46ceff;
   }
   .curriculumButton {
     border: 3px solid #000030;
@@ -249,7 +249,7 @@
   .curriculumButton:hover {
     background: white;
     color: #000030;
-    border: 3px solid #39B54A;
+    border: 3px solid #46ceff;
   }
   .curriculumButton:hover:disabled {
     border: 3px solid gray;
@@ -270,7 +270,7 @@
   .navbutton:hover {
     background: white;
     color: #000030;
-    border: 3px solid #39B54A;
+    border: 3px solid #46ceff;
   }
   .right-content {
     /* grid-column-start: 2;*/
