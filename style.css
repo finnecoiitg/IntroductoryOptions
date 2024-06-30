@@ -162,12 +162,12 @@
   #welcome {
     display: flex;
     flex-direction: column;
-    background-color: #000030;
+    background-color: #004B80;
     justify-content: space-around;
     align-items: center;
     height: 80vh;
     width: 100%;
-    background:  #000030;
+    background:  #004B80;
     clear: both;
   }
   .outfit{
@@ -223,24 +223,24 @@
     font-family: 'Raleway';
     text-align: center;
     font-weight: bold;
-    background: #000030;
+    background: #004B80;
     color: white;
   }
   .regbutton:hover {
     background: white;
-    color: #000030;
+    color: #004B80;
     border: 3px solid #46ceff;
   }
   .curriculumButton {
-    border: 3px solid #000030;
+    border: 3px solid #004B80;
     padding: 20px;
     font-size: 1.2em;
     letter-spacing: 2px;
     font-family: 'Raleway';
     text-align: center;
     font-weight: bold;
-    /* background: #000030; */
-    color: #000030;
+    /* background: #004B80; */
+    color: #004B80;
   }
   .curriculumButton:disabled {
     border: 3px solid gray;
@@ -248,7 +248,7 @@
   }
   .curriculumButton:hover {
     background: white;
-    color: #000030;
+    color: #004B80;
     border: 3px solid #46ceff;
   }
   .curriculumButton:hover:disabled {
@@ -257,19 +257,19 @@
   }
   .navbutton {
     margin: 10px auto;
-    border: 3px solid #000030;
+    border: 3px solid #004B80;
     padding: 20px;
     font-size: 1.2em;
     letter-spacing: 2px;
     font-family: 'Raleway';
     text-align: center;
     font-weight: bold;
-    background: #000030;
+    background: #004B80;
     color: white;
   }
   .navbutton:hover {
     background: white;
-    color: #000030;
+    color: #004B80;
     border: 3px solid #46ceff;
   }
   .right-content {
@@ -282,7 +282,7 @@
   h2 {
     font-family: 'Saira', calibri;
     color: #1f262a;
-    color: #000030;
+    color: #004B80;
     font-size: 2.75em;
     margin-bottom: 30px;
     font-weight: normal;
@@ -293,13 +293,13 @@
     font-size: 2em;
     font-family: 'Raleway', calibri;
     letter-spacing: 2px;
-    color: #000030;
+    color: #004B80;
   }
   p {
     font-family: 'Lato', calibri;
     text-align: justify;
     font-size: 1.05em;
-    color: #000030;
+    color: #004B80;
   }
   #summary {
     grid-area: content;
@@ -350,13 +350,13 @@
   }
   .sum-title {
     font-size: 1.3em;
-    color: #000030;
+    color: #004B80;
     text-align: left;
     font-family: 'Lato', calibri;
   }
   .sum-value {
     font-size: 1em;
-    color: #000030;
+    color: #004B80;
     text-align: left;
     font-family: 'Lato', calibri;
   }
@@ -585,7 +585,7 @@ table {
     min-width: 120px;
   }
   .timeline .event:after {
-    box-shadow: 0 0 0 4px #39B54A;
+    box-shadow: 0 0 0 4px #46fdff;
     left: -37.85px;
     background: #313534;
     border-radius: 50%;
@@ -893,21 +893,21 @@ table {
   .button{
       background-color: transparent;
       background-repeat: no-repeat;
-      border: solid #004A3C 0.139vw;
+      border: solid #004B80 0.139vw;
       cursor: pointer;
       overflow: hidden;
       outline: none;
       width: 10.6vw;
       height: 0.902vw;
       border-radius: .52vw;
-      color: #004A3C;
+      color: #004B80;
       padding: 0.9vw 0vw 1vw 0.93vw ;
       font-size: 0.9vw;
   }
   .button2{
-      background-color: #004A3C;
+      background-color: #004B80;
       background-repeat: no-repeat;
-      border: solid #004A3C 0.139vw;
+      border: solid #004B80 0.139vw;
       cursor: pointer;
       overflow: hidden;
       outline: none;
@@ -925,13 +925,13 @@ table {
   .button2:hover{
       border-color: #7AFFA1;
       background-color: #7AFFA1;
-      color: #004A3C;
+      color: #004B80;
   }
   .abt-t-crs{
       height: 16.04vw ;
       width: 100%;
       border-radius: 1.10vw 3.819vw;
-      background-color: #004A3C;
+      background-color: #004B80;
       padding: 2.3vw 7.23vw 0.9vw 7.43vw;
       font-family: 'Chivo';
       font-style: normal;
@@ -994,7 +994,7 @@ table {
           width: 38.83vw;
           height: 5.32vw;
           border-radius: 1.92vw;
-          color: #004A3C;
+          color: #004B80;
           padding: 3.32vw 0vw 3.69vw 3.43vw ;
           font-size: 3.4vw;
       }
@@ -1016,7 +1016,7 @@ table {
       .button2:hover{
           border-color: #7AFFA1;
           background-color: #7AFFA1;
-          color: #004A3C;
+          color: #004B80;
       }
   
   
@@ -1024,7 +1024,7 @@ table {
           height: 142.3vw ;
           width: 81.38vw;
           border-radius: 4.06vw 14.01vw;
-          background-color: #004A3C;
+          background-color: #004B80;
           padding: 8.2vw 3vw 11vw 6.41vw;
           
           display: flex !important; 
