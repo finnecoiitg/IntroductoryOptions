@@ -978,9 +978,8 @@ table {
       width: 0.902vw;
       height: 0.902vw;
       border-radius: 0.451vw;
-      background-color: #7AFFA1;
+      background-color: #b3e7f9;
       margin-bottom: 0.625vw;
-      color: #46ceff;
   }
   
   @media (max-width: 65rem){
@@ -1058,7 +1057,6 @@ table {
           font-size: 4.57vw;
           padding-left: 0;
           flex-wrap: wrap;
-	 color: #46ceff;
       }
       .abt-t-crs ul li{
 	  color: #46ceff;
@@ -1067,9 +1065,8 @@ table {
           width: 3.328vw;
           height: 3.328vw;
           border-radius: 1.66vw;
-          background-color: #7AFFA1;
+          background-color: #b3e7f9;
           margin-bottom: 0.625vw;
-	 color: #46ceff;
       }
       html{
           scroll-behavior: smooth;
