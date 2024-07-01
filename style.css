@@ -1049,6 +1049,9 @@ table {
           flex-wrap: wrap;
 	 color: #46ceff;
       }
+      .abt-t-crs ul li{
+	  color: #46ceff;
+      }
       .abt-t-crs .dot{
           width: 3.328vw;
           height: 3.328vw;
