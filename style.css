@@ -662,6 +662,13 @@ table {
     padding: 0 2rem;
     background: var(--main-gray);
   }
+
+  abt-t-crs .dot{
+     color: #46ceff;
+  }
+  abt-t-course h1{
+     color: white !important;
+  }
   /* Mobile Optimization */
   @media (max-width: 70rem) {
       
@@ -970,6 +977,7 @@ table {
       border-radius: 0.451vw;
       background-color: #7AFFA1;
       margin-bottom: 0.625vw;
+      color: #46ceff;
   }
   
   @media (max-width: 65rem){
