@@ -650,6 +650,14 @@ table {
     margin: 0 auto;
   }
 
+.abt-t-crs .dot{
+     color: #46ceff;
+  }
+  .abt-t-course h1{
+     color: white !important;
+  }
+
+
   /* Contacts */
   .contact-section {
     display: flex;
@@ -663,12 +671,7 @@ table {
     background: var(--main-gray);
   }
 
-  abt-t-crs .dot{
-     color: #46ceff;
-  }
-  abt-t-course h1{
-     color: white !important;
-  }
+  
   /* Mobile Optimization */
   @media (max-width: 70rem) {
       
