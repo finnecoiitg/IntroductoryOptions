@@ -1,0 +1,28 @@
+[33me4d04d0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32m2024course[m[33m)[m HEAD@{0}: reset: moving to HEAD~1
+[33m295c6dd[m[33m ([m[1;31morigin/2024course[m[33m)[m HEAD@{1}: commit: week 3 day 4 added
+[33me4d04d0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32m2024course[m[33m)[m HEAD@{2}: commit: week 3 day 3 added
+[33m4c04a17[m HEAD@{3}: commit: week 3 day 2 added
+[33m1ded2bb[m HEAD@{4}: commit: week 3 day 1 added
+[33mee7bd46[m HEAD@{5}: commit: checkpoint 2 added
+[33m45bf3a9[m HEAD@{6}: commit: week 2 day 5 added
+[33m46139f4[m HEAD@{7}: commit: week 2 day 4 added
+[33mca08654[m HEAD@{8}: commit: week 2 day 3 added
+[33m134d634[m HEAD@{9}: commit: week 2 day 2 added
+[33md2f320a[m HEAD@{10}: commit: week 2 day 1 added
+[33mbeabf9a[m HEAD@{11}: commit: checkpoint 1 added
+[33m1ad2f18[m HEAD@{12}: commit: assignment 1 added
+[33mf532024[m HEAD@{13}: checkout: moving from 2024course to 2024course
+[33mf532024[m HEAD@{14}: commit: week 1 day 5 added
+[33mbc5d1b2[m HEAD@{15}: commit: additional resources added
+[33m036c292[m HEAD@{16}: commit: week 1 day 4 added
+[33m26ea831[m HEAD@{17}: checkout: moving from 2024course to 2024course
+[33m26ea831[m HEAD@{18}: commit: week 1 day 3 added
+[33me4cfe46[m HEAD@{19}: checkout: moving from 2024course to 2024course
+[33me4cfe46[m HEAD@{20}: commit: week 1 day 2 added
+[33mc51a323[m HEAD@{21}: checkout: moving from 2024course to 2024course
+[33mc51a323[m HEAD@{22}: commit: resource updated
+[33m8a107b4[m HEAD@{23}: checkout: moving from 2024course to 2024course
+[33m8a107b4[m HEAD@{24}: commit: css updated
+[33m3e2c3cb[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{25}: checkout: moving from main to 2024course
+[33m3e2c3cb[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{26}: commit: css updated
+[33m9ac0110[m HEAD@{27}: clone: from https://github.com/poorviish/fundamentalbootcamp
